@@ -1,5 +1,5 @@
 '''
-Application menu
+This file consists of creating the system menu.
 
 '''
 
