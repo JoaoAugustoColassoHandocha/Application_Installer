@@ -1,5 +1,5 @@
 '''
-All functions (def) of the application.
+This file consists of the creation of the system functions.
 
 '''
 
