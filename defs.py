@@ -1,3 +1,8 @@
+'''
+All functions (def) of the application.
+
+'''
+
 import os
 
 os.system('color 1f')
